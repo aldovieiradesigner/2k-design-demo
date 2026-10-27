@@ -1,0 +1,74 @@
+[
+  {
+    "name": "João Gomes",
+    "path": "assets/client-joao-gomes.webp",
+    "source": "https://2kstudiodesign.com/logo_marca/joao-gomes.png",
+    "width": 500,
+    "height": 167,
+    "bytes": 8058
+  },
+  {
+    "name": "Fernandinha",
+    "path": "assets/client-fernandinha.webp",
+    "source": "https://2kstudiodesign.com/logo_marca/Logo-Fernandinha.png",
+    "width": 246,
+    "height": 141,
+    "bytes": 3504
+  },
+  {
+    "name": "Nattan",
+    "path": "assets/client-nattan.webp",
+    "source": "https://2kstudiodesign.com/logo_marca/logo-nattan.png",
+    "width": 442,
+    "height": 74,
+    "bytes": 11162
+  },
+  {
+    "name": "Taty Girl",
+    "path": "assets/client-taty-girl.webp",
+    "source": "https://2kstudiodesign.com/logo_marca/logo-tatygril.png",
+    "width": 351,
+    "height": 253,
+    "bytes": 15448
+  },
+  {
+    "name": "Wesley Safadão",
+    "path": "assets/client-wesley-safadao.webp",
+    "source": "https://2kstudiodesign.com/logo_marca/logo-ws.png",
+    "width": 465,
+    "height": 174,
+    "bytes": 7550
+  },
+  {
+    "name": "Zé Cantor",
+    "path": "assets/client-ze-cantor.webp",
+    "source": "https://2kstudiodesign.com/logo_marca/logo-zecantor.png",
+    "width": 385,
+    "height": 293,
+    "bytes": 32062
+  },
+  {
+    "name": "Priscila Senna",
+    "path": "assets/client-priscila-senna.webp",
+    "source": "https://2kstudiodesign.com/logo_marca/logo-PRISCILASENNA.png",
+    "width": 362,
+    "height": 194,
+    "bytes": 15178
+  },
+  {
+    "name": "Yasmin Sensação",
+    "path": "assets/client-yasmin-sensacao.webp",
+    "source": "https://2kstudiodesign.com/logo_marca/yasminsensacao-logo.png",
+    "width": 500,
+    "height": 500,
+    "bytes": 16608
+  },
+  {
+    "name": "Carnaquiraz",
+    "path": "assets/client-carnaquiraz.webp",
+    "source": "https://2kstudiodesign.com/logo_marca/Carnaquiraz-logo.png",
+    "width": 500,
+    "height": 80,
+    "bytes": 10166
+  }
+]

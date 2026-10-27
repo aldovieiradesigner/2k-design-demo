@@ -1,0 +1,128 @@
+[
+  {
+    "id": "joaogomes",
+    "title": "João Gomes",
+    "category": "DVD",
+    "description": "Um encontro entre o sertão e os Arcos da Lapa, com cenografia, luz e imagens construindo a identidade visual do espetáculo.",
+    "image": "assets/joaogomes-3.webp",
+    "gallery": [
+      "assets/joaogomes-3.webp",
+      "assets/joaogomes-4.webp",
+      "assets/joaogomes-1.webp",
+      "assets/joaogomes-2.webp"
+    ],
+    "source": "https://2kstudiodesign.com/html/projetos-html/joaogomes.html",
+    "imageType": "Visualização 3D",
+    "galleryLabels": [
+      "Visualização 3D",
+      "Visualização 3D",
+      "Visualização 3D",
+      "Visualização 3D"
+    ]
+  },
+  {
+    "id": "tbtsafadao",
+    "title": "TBT Safadão",
+    "category": "Projeto de palco",
+    "description": "Luz, vídeo e arquitetura se encontram em uma composição de grande escala para o projeto TBTWS 2026.",
+    "image": "assets/tbtsafadao-4.webp",
+    "gallery": [
+      "assets/tbtsafadao-4.webp",
+      "assets/tbtsafadao-6.webp",
+      "assets/tbtsafadao-7.webp",
+      "assets/tbtsafadao-2.webp"
+    ],
+    "source": "https://2kstudiodesign.com/html/projetos-html/tbtsafadao.html",
+    "imageType": "Fotografia",
+    "galleryLabels": [
+      "Fotografia",
+      "Visualização 3D",
+      "Fotografia",
+      "Desenho técnico"
+    ]
+  },
+  {
+    "id": "garotavip",
+    "title": "Garota VIP",
+    "category": "Festival",
+    "image": "assets/garotavip-1.webp",
+    "gallery": [
+      "assets/garotavip-1.webp",
+      "assets/garotavip-2.webp",
+      "assets/garotavip-3.webp",
+      "assets/garotavip-4.webp"
+    ],
+    "source": "https://2kstudiodesign.com/html/projetos-html/garotavip.html",
+    "imageType": "Visualização 3D",
+    "galleryLabels": [
+      "Visualização 3D",
+      "Visualização 3D",
+      "Fotografia de montagem",
+      "Fotografia de montagem"
+    ],
+    "description": "Um palco em camadas, com cenografia, luz e vídeo compondo a identidade visual do Festival Garota VIP."
+  },
+  {
+    "id": "nattanzinho",
+    "title": "Nattanzinho",
+    "category": "Projeto de palco",
+    "image": "assets/nattanzinho-8.webp",
+    "gallery": [
+      "assets/nattanzinho-8.webp",
+      "assets/nattanzinho-9.webp",
+      "assets/nattanzinho-7.webp",
+      "assets/nattanzinho-1.webp"
+    ],
+    "source": "https://2kstudiodesign.com/html/projetos-html/nattanzinho.html",
+    "imageType": "Fotografia",
+    "galleryLabels": [
+      "Fotografia",
+      "Fotografia",
+      "Fotografia de montagem",
+      "Fotografia de montagem"
+    ],
+    "description": "Da estrutura à apresentação, uma composição de palco desenvolvida para a energia dos shows de Nattanzinho."
+  },
+  {
+    "id": "priscilasenna",
+    "title": "Priscila Senna",
+    "category": "DVD",
+    "description": "Estruturas metálicas, painéis de LED e iluminação cênica compõem a linguagem visual do projeto PS15.",
+    "image": "assets/priscilasenna-1.webp",
+    "gallery": [
+      "assets/priscilasenna-1.webp",
+      "assets/priscilasenna-2.webp",
+      "assets/priscilasenna-3.webp",
+      "assets/priscilasenna-4.webp"
+    ],
+    "source": "https://2kstudiodesign.com/html/projetos-html/priscilasenna.html",
+    "imageType": "Visualização 3D",
+    "galleryLabels": [
+      "Visualização 3D",
+      "Visualização 3D",
+      "Fotografia de montagem",
+      "Fotografia de montagem"
+    ]
+  },
+  {
+    "id": "iguinhoelulinha",
+    "title": "Iguinho e Lulinha",
+    "category": "Projeto de palco",
+    "description": "Abre a Porteira traduz a energia do forró e do piseiro em uma experiência visual que aproxima artistas e público.",
+    "image": "assets/iguinhoelulinha-4.webp",
+    "gallery": [
+      "assets/iguinhoelulinha-4.webp",
+      "assets/iguinhoelulinha-2.webp",
+      "assets/iguinhoelulinha-1.webp",
+      "assets/iguinhoelulinha-3.webp"
+    ],
+    "source": "https://2kstudiodesign.com/html/projetos-html/iguinhoelulinha.html",
+    "imageType": "Visualização 3D",
+    "galleryLabels": [
+      "Visualização 3D",
+      "Visualização 3D",
+      "Visualização 3D",
+      "Visualização 3D"
+    ]
+  }
+]
